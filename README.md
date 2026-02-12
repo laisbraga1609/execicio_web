@@ -1,64 +1,50 @@
-# 🤖 Automação com n8n
+# ✨ Fundo Mágico
 
 ## 📌 Sobre o Projeto
-Este projeto utiliza o **n8n**, uma ferramenta de automação de workflows, para automatizar tarefas e integrações entre sistemas.
+O **Fundo Mágico** é um projeto web desenvolvido utilizando **HTML, CSS e JavaScript**.
 
-O objetivo é reduzir processos manuais, melhorar produtividade e praticar conceitos de automação e integração de APIs.
-
----
-
-## ⚙️ O que é o n8n?
-O **n8n** é uma plataforma open source de automação que permite conectar serviços, APIs e sistemas através de fluxos visuais.
-
-Exemplo de automações:
-- Enviar mensagens automáticas
-- Integrar sistemas
-- Processar dados automaticamente
-- Criar gatilhos baseados em eventos
+O objetivo do programa é criar efeitos visuais e interações dinâmicas na tela, permitindo alterar fundos, cores ou elementos visuais de forma automática ou através da interação do usuário.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
-- n8n
-- JavaScript (quando necessário em funções)
-- APIs REST
-- Webhooks
+## 🌐 Tecnologias Utilizadas
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-## 🔄 Funcionalidades
-➜ Automação de tarefas repetitivas  
-➜ Integração entre sistemas  
-➜ Processamento automático de dados  
-➜ Execução baseada em gatilhos  
+## 🚀 Funcionalidades
+➜ Alteração dinâmica de fundo  
+➜ Interação com o usuário  
+➜ Efeitos visuais  
+➜ Manipulação de elementos na tela  
 
 ---
 
 ## 📂 Estrutura do Projeto
-automacao-n8n/
+fundo-magico/
 │
-├── workflows/
-├── documentacao/
+├── index.html
+├── style.css
+├── script.js
 └── README.md
 
 
----
 
-## ▶️ Como Usar
-1. Instalar o n8n  
-2. Importar o workflow  
-3. Configurar credenciais  
-4. Executar automação  
+
 
 ---
 
 ## 🎯 Objetivo de Aprendizado
-- Aprender automação de processos
-- Trabalhar com integrações
-- Entender uso de webhooks
-- Praticar lógica aplicada a automações
+Este projeto foi desenvolvido para:
+- Praticar desenvolvimento web
+- Aprender manipulação do DOM
+- Trabalhar com estilização em CSS
+- Praticar lógica com JavaScript
 
 ---
 
 ## 👩‍💻 Autora
-Desenvolvido por **Laís Braga** 🚀
+Desenvolvido por **Laís Braga**  
+Estudante de programação focada em Back-End 🚀
