@@ -43,8 +43,4 @@ Este projeto foi desenvolvido para:
 - Trabalhar com estilização em CSS
 - Praticar lógica com JavaScript
 
----
 
-## 👩‍💻 Autora
-Desenvolvido por **Laís Braga**  
-Estudante de programação focada em Back-End 🚀
